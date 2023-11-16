@@ -21,6 +21,7 @@
   "peacock.color": "#427D9D",
   "cSpell.words": [
     "headlessui",
-    "lucide"
+    "lucide",
+    "zustand"
   ]
 }
