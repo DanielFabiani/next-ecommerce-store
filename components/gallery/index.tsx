@@ -9,7 +9,6 @@ interface GalleryProps {
   images: ImageType[];
 }
 
-
 const Gallery: React.FC<GalleryProps> = ({
   images
 }) => {
