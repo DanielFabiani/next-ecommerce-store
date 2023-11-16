@@ -18,5 +18,8 @@
     "titleBar.inactiveBackground": "#427d9d99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#427D9D"
+  "peacock.color": "#427D9D",
+  "cSpell.words": [
+    "lucide"
+  ]
 }
