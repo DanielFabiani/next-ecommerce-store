@@ -18,7 +18,7 @@ const Navbar =  async () => {
             href="/"
             className="ml-4 flex lg:ml-0 gap-x-2"
           >
-            <p className="font-bold text-xl">STORE</p>
+            <p className="font-bold text-xl">Next E-commerce Store</p>
           </Link>
 
           <MainNav data={categories} />
